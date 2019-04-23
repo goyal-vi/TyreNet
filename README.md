@@ -1,2 +1,2 @@
 # TyreNet
-CNN to get vehicle and owner information from image of vehicles having Indian licence registration number.
+TyreNet aims at providing the details of a vehicle from the image of vehicle containing Vehicle Registeration Number Plate.
